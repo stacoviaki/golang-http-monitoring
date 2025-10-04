@@ -2,7 +2,6 @@
 
 Para executar o monitoramento, utilize o comando abaixo no terminal:
 
-```bash
 go run main.go <server_list.csv> <downtime.csv>
 ⚠️ Observações importantes
 Os dois parâmetros são obrigatórios.
